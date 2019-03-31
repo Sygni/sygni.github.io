@@ -6,6 +6,6 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://sygni.github.io/athena"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://sygni.github.io"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 I like this!
